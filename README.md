@@ -11,15 +11,8 @@
 
   
 
-table>
-  <tr>
-    <td>
-       
-      <td>
+ 
         <div style="width: 100%;" align="center">
           <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokydas&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
         </div>
-      </td>
-    </td>
-  </tr>
-</table>
+ 
