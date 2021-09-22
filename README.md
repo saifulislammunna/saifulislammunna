@@ -10,7 +10,4 @@
 - ⚡ Fun fact: I love to   play football / cricket
 
   
-
- <div style="width: 100%;" align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rokydas" alt="rokydas" />
-</div> 
+ 
