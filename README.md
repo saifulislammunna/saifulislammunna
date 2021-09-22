@@ -9,23 +9,18 @@
 - 🥅 2021 Goals: Learning more from Open Source projects
 - ⚡ Fun fact: I love to   play football / cricket
 
- 
-<div style="width: 100%;" align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislammunna" alt="saifulislammunna" />
-</div>
+  
 
 
  <table>
   <tr>
-    <td>
-      <div style="width: 100%;" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saifulislammunna&show_icons=true&hide_border=true&count_private=true" /> 
-      </div>
+     
+     
       <td>
         <div style="width: 100%;" align="center">
           <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislammunna&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
         </div>
       </td>
-    </td>
+    
   </tr>
 </table>
