@@ -9,5 +9,7 @@
 - 🥅 2021 Goals: Learning more from Open Source projects
 - ⚡ Fun fact: I love to   play football / cricket
 
-  
+  <br />
+
+### Languages and Tools:
  
