@@ -1,7 +1,7 @@
 ### Hi there, I'm Saiful   👋
 
  
-## I'm a web-Developer, and Student!!
+## I'm a web-Developer 
 
 - 🔭 Focused on  the "client side" & "Server side" development.
 - 🌱 I’m currently learning React js,Node js & Express js 🤣
