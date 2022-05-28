@@ -6,7 +6,7 @@
 - 🔭 Focused on  the "client side" & "Server side" development.
 - 🌱 I’m currently learning React js,Node js & Express js 🤣
 - 👯 I’m looking to collaborate with other web creators
-- 🥅 2021 Goals: Learning more from Open Source projects
+- 🥅 Goals: Learning more from Open Source projects
 - ⚡ Fun fact: I love to   play football / cricket
 
   <br />
